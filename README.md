@@ -1,17 +1,3 @@
-<html><head>
-
-
-<title>Laughing Horse's Orifice Headquarters</title>
-<meta name="description" content="LEADING NEUROLINGUSTIC PROGRAMMERS OF POSTHYPNOTIC OPERATING SYSTEMS FOR DISTRIBUTED COMPUTING OVER HUMAN BOTNETS."><meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
-
-
-<meta name="keywords" content="Practical satansism for relief from government electromagnetic torture GCHQ JTRIG behavioral science operational highlights">
-<meta name="robots" content="index,follow">
-
-
-
-<style>
-
 body
 	{
 	margin: 0px auto 0px auto;
